@@ -43,7 +43,7 @@ The name “TxtToPDF and Txt Merger” and related branding may not be used with
 ## 5. Commercial Licensing
 To obtain a commercial-use or redistribution license, please contact:
 
-📧 **srdjanlopezllc@gmail.com**
+**srdjanlopezllc@gmail.com**
 
 Custom terms and enterprise licensing options are available.
 
