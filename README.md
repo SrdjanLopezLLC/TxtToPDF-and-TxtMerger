@@ -6,6 +6,15 @@ It allows you to quickly merge multiple `.txt` files or convert plain text docum
 
 ---
 
+## 🖼 Preview
+
+**TxtToPDF and Txt Merger** in action:
+
+![Main Window](assets/TxtToPDF_and_Txt_Merger_Screenshot_1.png)
+![PDF Conversion](assts/TxtToPDF_and_Txt_Merger_Screenshot_2.png)
+
+---
+
 ## Features
 - Merge multiple `.txt` files into a single document  
 - Convert `.txt` to `.pdf` using [PDFsharp](https://pdfsharp.net)  
