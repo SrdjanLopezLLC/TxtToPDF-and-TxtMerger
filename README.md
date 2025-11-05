@@ -11,7 +11,7 @@ It allows you to quickly merge multiple `.txt` files or convert plain text docum
 **TxtToPDF and Txt Merger** in action:
 
 ![Main Window](assets/TxtToPDF_and_Txt_Merger_Screenshot_1.png)
-![PDF Conversion](assts/TxtToPDF_and_Txt_Merger_Screenshot_2.png)
+![PDF Conversion](assets/TxtToPDF_and_Txt_Merger_Screenshot_2.png)
 
 ---
 
