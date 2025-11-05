@@ -6,7 +6,7 @@ It allows you to quickly merge multiple `.txt` files or convert plain text docum
 
 ---
 
-## 🖼 Preview
+## Preview
 
 **TxtToPDF and Txt Merger** in action:
 
